@@ -64,4 +64,45 @@ In javascript threre are 7 types of primitive datatypes are present.
 ---6.string:-string is type of datatype that can hold some character like names or words.
 ---7.symbol:-in symbol we will get whole symbol as well as the value we get for the data type.
 2.Reference:-
+-non primitive datatypes are the type of datatype that can hold mulitiple items in a single line.
+-non primitive datatypes are-object,array& functions.
+-objects is a non primitive datatype which can hold multiple items in one single entity.
+mainly object working on (key:value) pair.
+the left hand side is our keys and right hand side are the values of that key.
+
+ex. of object:-
+person={
+    "name"="web-bocket",
+    "age"=2,
+    "business"="software",
+    "carrier"="good"
+}
+
+
+ex. of array:-
+
+let arr=[1,2,4,5,8,6,9,3,2]
+NOTE-array indexing start from "0".
+
+ex. of function:-
+
+function great(){
+    console.log("Hello World")
+}
+great()
+
+
+Operator in javascript:-
+operator are the key features to do some task or operate some task.
+ex. A+B
+ in that given example A&B are the operands , "+" sign is our operator.
+ there are 5 types of operator are their in javascript.
+
+ 1.Arithematic Operator->(+,-,*,/,%(modulo),**(exponents)).
+ 2.unary operator-> ++(increment),--(decrement)
+ 3.assignment operator->(=,+=,-=,*=,**=,%=,/=)
+ 4.logical operator->(logical and operator-&&),(logical or operator ||)
+ 5.comparision operator->(==,!=,!==,===)
+
+
 
