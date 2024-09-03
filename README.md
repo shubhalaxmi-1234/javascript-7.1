@@ -104,5 +104,41 @@ ex. A+B
  4.logical operator->(logical and operator-&&),(logical or operator ||)
  5.comparision operator->(==,!=,!==,===)
 
+Conditional statement in javascript:-
+conditional statement are used to implement some condition in code.
+there are 3 types of conditional starement are their on javascript.
+1.if condition:-
+if condition is true then statement is executed.
+syntax:-
+if(condition){
+    statement;
+
+}
+2.if-else condition:-
+if condition is true then if block is executed otherwise  it terminates to else condition.
+syntax:-
+if(condition){
+    statement
+}else{
+    statement  
+}
+
+
+3.else if condition:-
+syntax:-
+if(condition){
+    statement
+}else if(condition){
+    statement
+
+}else if(condition){
+    statement
+}else{
+    statement
+}
+
+
+
+
 
 
