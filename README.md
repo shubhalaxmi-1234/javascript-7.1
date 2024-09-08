@@ -137,6 +137,11 @@ if(condition){
     statement
 }
 
+// loops are  two types 1. entry control loop(for,while) 2. exit control loop(do-while)
+// there are 4 step that loops are follows 1. initialization 2. condition 3. execution 4. increment/decrement
+// while(condition) {
+// statement
+// }
 
 
 
